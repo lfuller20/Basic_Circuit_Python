@@ -29,7 +29,7 @@ In this assignment, I had to make a servo move from 0 degrees to 180 degrees by 
 
 ### Image
 
-![DiagramOfServoControlWiring](images/DiagramOfServoControlWiring.png)
+![DiagramofServoControlWiring](images/DiagramofServoControlWiring.png)
 * I got this image from Dr. Shields
 
 ### Code
