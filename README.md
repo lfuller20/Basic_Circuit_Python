@@ -5,7 +5,7 @@ This is a repository for my coding projects.
 ## Table of Contents 
 * [Table of Contents](#Table-of-Contents)
 * [Getting Started](#Getting-Started)
-* [Servo Control With Capacitive Touch](#Servo Control With Capacitive Touch)
+* [Servo Control With Capacitive Touch](#Servo-Control-With-Capacitive-Touch)
 
 ---
 
