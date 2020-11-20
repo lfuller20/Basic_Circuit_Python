@@ -6,6 +6,7 @@ This is a repository for my coding projects.
 * [Table of Contents](#Table-of-Contents)
 * [Getting Started](#Getting-Started)
 * [Servo Control With Capacitive Touch](#Servo-Control-With-Capacitive-Touch)
+* [CircuitPython LCD](#CircuitPython-LCD)
 
 ---
 
@@ -77,3 +78,16 @@ I learned how to make a servo turn but instead of using buttons I learned how to
 
 ---
 
+## CircuitPython LCD
+
+### Description
+
+### Image 
+
+### Code
+
+### Problems
+
+### What I learned
+
+---
