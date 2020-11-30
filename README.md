@@ -70,7 +70,7 @@ while True:
 ```
 ### Problems
 
-During the process of this project I ran into a number of problems. First off, since this was a new project and I had never worked with a PWM pin before, I had to reference some of my friend's githubs, Owen McKenney and Graham Lenert, which I found to be extremely helpful. After wiring up my circuit and writing my code, I ran into a series of issues when trying to run my code. I had two issues regarding libraries in my code. One of the libraries wasn't needed, so that was an easy fix however the other was needed. In order to resolve my other library issue, I had to download a bundle and import a servo library in order for my circuit to function. After doing this, I made a couple of edits to my code and my project was up and running. 
+During the process of this project I ran into a number of problems. First off, since this was a new project and I had never worked with a PWM pin before, I had to reference some of my friend's githubs; Owen McKenney and Graham Lenert, which I found to be extremely helpful. After wiring up my circuit and writing my code, I ran into a series of issues when trying to run my code. I had two issues regarding libraries in my code. One of the libraries wasn't needed, so that was an easy fix however the other was needed. In order to resolve my other library issue, I had to download a bundle and import a servo library in order for my circuit to function. After doing this, I made a couple of edits to my code and my project was up and running. 
 
 ### What I learned!
 
