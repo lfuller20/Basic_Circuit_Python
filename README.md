@@ -101,7 +101,7 @@ In this assignment I had to use a distance sensor, and map the distances of how 
 
 ### Image 
 
-![DiagramofServoControlWiring](images/DiagramofServoControlWiring.png)
+![Milesdistance_sensor](images/Milesdistance_sensor.png)
 
 ### Code
 
