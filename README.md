@@ -83,13 +83,19 @@ I learned how to make a servo turn but instead of using buttons I learned how to
 
 ### Description
 
+In this assignment, I had the LCD display how many times a button was pressed, and whethere it was counting up or down. 
+
 ### Image 
 
 ### Code
 
 ### Problems
 
+Majority of my problems came when trying to download and install certain libraries onto my Metro. Overall, this project was one of the more difficult ones I have completed. 
+
 ### What I learned
+
+I learned how to show the number of times a button was pressed and how to reverse the direction the button was counting. 
 
 ---
 
