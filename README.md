@@ -143,7 +143,9 @@ In this assignment I had design a project to count upward every time an object w
 
 ### Image 
 
-![Milesdistance_sensor](images/Milesdistance_sensor.png)
+![photointerrupter](images/photointerrupter.png)
+
+I took this photo from my friend Pieter Halvorson Taylor's Github, his username is phalvor47. 
 
 ### Code
 ```python
