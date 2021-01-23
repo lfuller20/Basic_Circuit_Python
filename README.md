@@ -88,7 +88,7 @@ In this assignment, I had the LCD display how many times a button was pressed, a
 
 ### Image 
 
-![Milesldc](images/Mileslcd.png)
+![Mileslcd](images/Mileslcd.png)
 
 ### Code
 
@@ -135,7 +135,7 @@ I learned how to show the number of times a button was pressed and how to revers
 
 ---
 
-## CircuitPython Distance Sensor
+## CircuitPython Photointerrupter
 
 ### Description
 
