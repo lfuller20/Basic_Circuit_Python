@@ -183,11 +183,11 @@ I used snippets of code from my friend William Keenan who was a great help to me
 
 ### Problems
 
-
+I struggled with wiring up my photointerrupter because I had only done it once before and it was over a year ago. However, with the help of some of my friends and the internet I was able to overcome my problems. 
 
 ### What I learned
 
-
+I relearned how to wire a photointerrupter. I had only done it once before, which was during my sophomore year, so I had to relearn the steps in order to complete this project. Luckily, I was able to find all the information I needed from the internet. 
 
 ---
 
