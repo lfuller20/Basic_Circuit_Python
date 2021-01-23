@@ -7,6 +7,7 @@ This is a repository for my coding projects.
 * [Getting Started](#Getting-Started)
 * [Servo Control With Capacitive Touch](#Servo-Control-With-Capacitive-Touch)
 * [CircuitPython LCD](#CircuitPython-LCD)
+* [CircuitPython Photointrerruptor](#CircuitPython-Photointerrupter)
 * [CircuitPython Distance Sensor](#CircuitPython-Distance-Sensor)
 
 ---
@@ -131,6 +132,60 @@ Majority of my problems came when trying to download and install certain librari
 ### What I learned
 
 I learned how to show the number of times a button was pressed and how to reverse the direction the button was counting. 
+
+---
+
+## CircuitPython Distance Sensor
+
+### Description
+
+In this assignment I had design a project to count upward every time an object went between the arms of the photointerrupter. Furthermore, I had to print the amount of times it was interrupted to the LCD every 4 seconds. 
+
+### Image 
+
+![Milesdistance_sensor](images/Milesdistance_sensor.png)
+
+### Code
+```python
+# Lucas Fuller
+
+import board
+import math
+import time
+import digitalio
+import adafruit_bus_device
+
+
+photoPin = digitalio.DigitalInOut(board.D8)
+photoPin.direction = digitalio.Direction.INPUT
+photoPin.pull = digitalio.Pull.UP
+
+lastTime = time.monotonic()
+
+isInterrupted = True
+counter = 0
+
+while True:
+    if time.monotonic() > lastTime + 4:
+        lastTime = time.monotonic()
+        print('         ')
+        print(str(counter))
+    if photoPin.value and not isInterrupted:
+        counter += 1
+        isInterrupted = True
+    if not photoPin.value:
+        isInterrupted = False
+```
+
+I used snippets of code from my friend William Keenan who was a great help to me in completing this assignment. His username is willhk10, go check out his Github!
+
+### Problems
+
+
+
+### What I learned
+
+
 
 ---
 
