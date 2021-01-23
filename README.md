@@ -92,3 +92,23 @@ I learned how to make a servo turn but instead of using buttons I learned how to
 ### What I learned
 
 ---
+
+## CircuitPython Distance Sensor
+
+### Description
+
+In this assignment I had to use a distance sensor, and map the distances of how far away something is from the sensor. The color of the onboard neopixel on my Metro corresponded to the distance of how far away the object was, I used my hand.
+
+### Image 
+
+![DiagramofServoControlWiring](images/DiagramofServoControlWiring.png)
+
+### Code
+
+### Problems
+
+My friends Miles Kershner and Pieter Halvorson Taylor, (mkershn16 and phalvor47), helped me with all of the problems that I had on this project. 
+
+### What I learned
+
+---
