@@ -7,6 +7,7 @@ This is a repository for my coding projects.
 * [Getting Started](#Getting-Started)
 * [Servo Control With Capacitive Touch](#Servo-Control-With-Capacitive-Touch)
 * [CircuitPython LCD](#CircuitPython-LCD)
+* [CircuitPython Distance Sensor](#CircuitPython-Distance-Sensor)
 
 ---
 
