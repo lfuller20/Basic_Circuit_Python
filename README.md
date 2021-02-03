@@ -72,7 +72,7 @@ while True:
 ```
 ### Problems
 
-During the process of this project I ran into a number of problems. First off, since this was a new project and I had never worked with a PWM pin before, I had to reference some of my friend's githubs; Owen McKenney and Graham Lenert, which I found to be extremely helpful. After wiring up my circuit and writing my code, I ran into a series of issues when trying to run my code. I had two issues regarding libraries in my code. One of the libraries wasn't needed, so that was an easy fix however the other was needed. In order to resolve my other library issue, I had to download a bundle and import a servo library in order for my circuit to function. After doing this, I made a couple of edits to my code and my project was up and running. 
+During the process of this project I ran into a number of problems. First off, since this was a new project and I had never worked with a PWM pin before, I had to reference some of my friend's githubs; [Owen McKenney](https://github.com/omckenn37) and [Graham Lenert](https://github.com/glenert41) , which I found to be extremely helpful. After wiring up my circuit and writing my code, I ran into a series of issues when trying to run my code. I had two issues regarding libraries in my code. One of the libraries wasn't needed, so that was an easy fix however the other was needed. In order to resolve my other library issue, I had to download a bundle and import a servo library in order for my circuit to function. After doing this, I made a couple of edits to my code and my project was up and running. 
 
 ### What I learned!
 
@@ -145,7 +145,7 @@ In this assignment I had design a project to count upward every time an object w
 
 ![photointerrupter](images/photointerrupter.png)
 
-I took this photo from my friend Pieter Halvorson Taylor's Github, his username is phalvor47. 
+I took this photo from my friend [Pieter Halvorson Taylor's Github](https://github.com/phalvor47). 
 
 ### Code
 ```python
@@ -179,7 +179,7 @@ while True:
         isInterrupted = False
 ```
 
-I used snippets of code from my friend William Keenan who was a great help to me in completing this assignment. His username is willhk10, go check out his Github!
+I used snippets of code from my friend [William Keenan](https://github.com/willhk10) who was a great help to me in completing this assignment.
 
 ### Problems
 
@@ -251,7 +251,7 @@ while True:
 
 ### Problems
 
-My friends Miles Kershner and Pieter Halvorson Taylor, (mkershn16 and phalvor47), helped me with all of the problems that I had on this project. 
+My friends [Miles Kershner](https://github.com/mkershn16) and [Pieter Halvorson Taylor](https://github.com/phalvor47) , helped me with all of the problems that I had on this project. 
 
 ### What I learned
 
